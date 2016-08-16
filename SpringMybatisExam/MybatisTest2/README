@@ -1,0 +1,5 @@
+1.数据库的用户名和密码配置文件的路径是 
+	MybatisTest2/src/main/resources/config.xml
+2.打开命令提示符并到达文件夹所在路径后输入
+	mvn clean compile exec:java -Dexec.mainClass="com.hand.Test" -Dexec.args="arg0 arg1 arg2"
+3.按照提示输入即可得到结果

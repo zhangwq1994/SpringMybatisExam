@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/work/培训资料/2016 J2EE/培训资料/16、Mybatis/mybatis-3.4.1/mybatis-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhangwenqiang/Downloads/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/org.springframework.transaction-sources-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-aop-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-aspects-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-beans-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-core-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-expression-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-instrument-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-instrument-tomcat-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-jdbc-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-jms-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-messaging-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-orm-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-oxm-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-test-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-tx-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-web-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-webmvc-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-webmvc-portlet-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/spring/spring-websocket-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/work/jar/dbcp/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
